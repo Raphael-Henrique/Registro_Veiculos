@@ -12,8 +12,6 @@ struct veiculo //dados a serem armazenados
 		int existe;
 	};
 	
-//	struct ficha_veiculos veiculo;
-	
 veiculo carro[MAX]; 
 veiculo carros[MAX];
 	
