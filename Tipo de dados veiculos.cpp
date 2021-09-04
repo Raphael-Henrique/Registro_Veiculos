@@ -15,7 +15,9 @@ struct veiculo //dados a serem armazenados
 veiculo carro[MAX]; 
 veiculo carros[MAX];
 	
-	//Declarando as funções a serem utilizadas
+/******************************************************************************Declarando as funções a serem utilizadas*************************************************************************/
+	
+	//gera uma lista de opções
 void menu();	
 	//gera um cadastro geral
 void Cadastro();
