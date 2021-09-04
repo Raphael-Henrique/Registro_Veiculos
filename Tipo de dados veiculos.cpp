@@ -17,7 +17,7 @@ struct veiculo //dados a serem armazenados
 veiculo carro[MAX]; 
 veiculo carros[MAX];
 	
-	//Declarando as funções a serem utilizadas
+	//Declarando as funÃ§Ãµes a serem utilizadas
 void menu();	
 	//gera um cadastro geral
 void Cadastro();
@@ -27,11 +27,11 @@ void list();
 void list_modelo();
 	//gera uma lista a partir do ano
 void list_ano();
-	//gera uma lista a partir do do ano selecionado
+	//gera uma lista a partir do ano selecionado
 void list_anoup();
 	//Permite a saida do sistema
 void abort();
-	//Ordenar os veículos por ano de fabricação em ordem crescente
+	//Ordenar os veÃ­culos por ano de fabricaÃ§Ã£o em ordem crescente
 void ordenar();
 
 
