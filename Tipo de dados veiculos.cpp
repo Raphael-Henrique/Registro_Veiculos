@@ -25,7 +25,7 @@ void list();
 void list_modelo();
 	//gera uma lista a partir do ano
 void list_ano();
-	//gera uma lista a partir do ano selecionado
+	//gera uma lista a partir do ano selecionado com uma tendência em após inserir o ano de fabricação, ele listará os veiculos cadastrados incrementados a partir do ano inserido
 void list_anoup();
 	//Permite a saida do sistema
 void abort();
